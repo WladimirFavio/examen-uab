@@ -311,7 +311,6 @@ article{
 .imagenCuerpo img:hover {
     transform: scale(1.9); 
     width: 100%;
-    border: 5px solid #fff;
 }
 
 .descripcion {
